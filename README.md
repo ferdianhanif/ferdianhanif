@@ -12,7 +12,7 @@ Currently building hands-on cloud labs and security automation scripts in AWS. B
 
 - ☁️ **Focus**: AWS Cloud Architecture, Security Group Isolation, Linux Sysadmin
 - 🛠️ **Current Project**: [aws-cloud-security-labs](https://github.com/ferdianhanif/aws-cloud-security-labs)
-- 📍 **Location**: West Sumatra, Indonesia
+- 📍 **Location**: West Jakarta, Indonesia
 - 📬 **Contact**: ferdianhanif001@gmail.com | [LinkedIn](https://linkedin.com/in/ferdianhanif)
 
 ---
