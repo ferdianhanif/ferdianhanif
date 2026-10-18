@@ -39,7 +39,12 @@ Experienced in analyzing 50,000+ transaction and marketplace catalog records usi
 
 ---
 
-## Education & Professional Certifications
+## Education & Verified Credentials
+
+### Education
 - **Universitas Andalas** – Bachelor of Engineering (S.T.) in Computer Engineering
-- **AWS re/Start Program: Cloud & Systems Specialist** – Amazon Web Services (2026)
-- **Cisco Cybersecurity Essentials** – Cisco Networking Academy
+
+### Verified Certifications & Badges (Credly)
+- **[AWS Educate Introduction to Generative AI](https://www.credly.com/earner/earned/badge/347bfa4c-fcbc-4059-9f62-97bf2b999d0d)** – Amazon Web Services Training & Certification
+- **[AWS re/Start Graduate](https://www.credly.com/earner/earned/badge/4abbc2c7-0473-490d-bedf-abd8023a50fe)** – Amazon Web Services Training & Certification
+- **[Introduction to Cybersecurity](https://www.credly.com/earner/earned/badge/3054eaf4-0cb4-43bc-b751-ced74adcb90c)** – Cisco Networking Academy
